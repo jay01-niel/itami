@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0C29E2C0e48AC60f3Bd481B76Ec015c813c475F4",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x0C29E2C0e48AC60f3Bd481B76Ec015c813c475F4",
+  "NETWORK": {
+    "NAME": "BscTestnet",
+    "SYMBOL": "TBNB",
+    "ID": 97
+  },
+  "NFT_NAME": "Fountain Turtle4k final",
+  "SYMBOL": "FOUT4kfinal",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/fountain-turtle4k-final",
+  "SHOW_BACKGROUND": true
+}
